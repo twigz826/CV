@@ -1,6 +1,10 @@
-## Your Name
+## Thomas Twigden
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I am a junior software engineer and recent Makers graduate. I love challenging myself to solve complex problems and have quickly learnt that there are plenty of those in the programming world.
+
+Having spent the majority of my career in financial advisory, I saw that many solutions to real world problems revolved around technology. I want to be at the forefront of building these solutions and this is what lead me to pivot my career towards software engineering.
+
+I am now looking to join a team of like-minded individuals where I can learn and contribute to something that genuinely excites me. 
 
 ## Projects
 
