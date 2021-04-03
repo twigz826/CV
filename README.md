@@ -19,8 +19,8 @@ I am now looking to join a team of like-minded individuals where I can contribut
 _Consultant_
 
 - Working in a number of different engagements across Financial Modelling and Post Merger Integration planning
-- Experience using VBA and PowerBI when working on complex financial models for Chilean public concession contracts
-- Project management experience when managing integration planning and execution for a leading Waste Management Services company across 7 different functions
+- Experience using VBA and PowerBI in the development of complex financial models for clients seeking to register bids on Chilean public concession contracts
+- Project management experience managing integration planning and execution for a leading Waste Management Services company across 7 different functions, as well as managing the integration following the merger of two Chilean public sector regulatory bodies
 - Ability to quickly learn new skills as well as adapt to working and operating in a Spanish-speaking environment
 
 **KPMG - Corporate Tax** (September 2013 - January 2018)  
@@ -28,52 +28,67 @@ _Tax Assistant Manager_
 
 - Working in the Financial Services Corporate Tax department on tax advisory projects for some of the largest banks and general insurers in the UK
 - Ability to coordinate project teams and manage tight deadlines, as well as adapt to new regulations impacting corporate tax requirements and considerations (particularly following the UK's decision to leave the EU)
-- Qualified as a chartered accountant in 2016 after gaining two and a half years of professional experience and passing all the required exams in accounting, advanced finance, financial reporting and tax
+- Qualified as a chartered accountant in 2016 after gaining two and a half years of professional experience and passing all the required exams across accounting, advanced finance, financial reporting and tax
 
 
 ## Skills
 
 #### Teamwork
 
-I thrive as part of a team after having grown up playing team sports through school and university. This has given me a solid foundation in understanding the importance of team communication, helping everyone understand their role and how they contribute to the bigger picture and getting the best out of people. In my career, I have always worked on project teams and relish the opportunity to learn from more senior members while giving actionable advice and support to more junior members. At Makers, I had the opportunity to work on a number of project teams, while at the same time adopting Agile work practices to efficiently coordinate the workload and deliver well functioning final products.
+I thrive as part of a team after having grown up playing team sports through school and university. This has given me a strong foundation in understanding the importance of communication, helping everyone understand their role and how they contribute to the bigger picture so they can perform at their best. In my career, I have always worked as part of project teams and relish the opportunity to learn from more senior members while giving actionable advice and support to more junior members. At Makers, I had the opportunity to work on a number of group projects, while at the same time adopting Agile work practices to efficiently coordinate the workload and deliver well functioning final products.
 
 #### Adaptability
 
-I have learnt how to adapt to new situations in my professional and personal life through challenging myself to take on new opportunities. After spending part of my year abroad at university in Chile, I decided to move back in 2018 to immerse myself in a new culture and improve my Spanish. I have also been able to adapt in my career by moving from a tax role to a financial advisory role, and have now taken this a step further by completing the Makers bootcamp and transitioning into a software engineering role. My experience thus far in computer programming has shown me that being able to adapt is essential in this profession, and I am confident I will be able to continue to adapt to the various challenges that lie ahead.
+I have learnt how to adapt by embracing new challenges in my personal and professional life. I spent 6 months working in Chile as part of my university degree, and decided to move back in 2018 to fully immerse myself in a new culture while greatly improving my Spanish. I have also been able to adapt in my career by moving from a tax role to a financial advisory role, and have now taken this a step further by completing the Makers bootcamp and transitioning into software engineering. My experience thus far in computer programming has shown me that being able to adapt is an essential skill to have, and I am confident I will be able to continue to adapt to the various challenges that lie ahead.
 
 #### Proactivity
 
-Having recently been part of a very small team, I understand how important it is to be proactive to accomplish tasks and resolve issues. I have always preferred to take the initiative rather than waiting for things to arrive at my feet. An example of this was in my last project prior to joining Makers. The decision was taken to use a project management tool that had been developed internally and recently released for use with clients. As the software was completely new to the whole team, I volunteered to be the software lead which involved completing all training sessions, configuring the software to the client's needs, leading client training workshops and being the first port of call to answer any questions related to the tool and its features.
+Having recently been part of a very small team at Deloitte, I understand how important it is to be proactive to resolve issues as they arise and accomplish tasks. I have always preferred to take the initiative rather than waiting for things to arrive at my feet. An example of this was in my last project prior to joining Makers. The decision was taken to use a project management tool that had been developed internally and recently released for use with clients. As the software was completely new to the whole team, I volunteered to be the software lead which involved completing all training sessions, configuring the software to the client's needs, leading client training workshops and being the first port of call to answer any questions related to the tool and its features. I truly believe that the most effective way to accelerate learning and growth is by  being outside of one's comfort zone.
 
 #### Leadership
 
-I enjoy leading from the front and inspiring others to go above and beyond expectations in pursuit of the best possible outcome. In my career, I have consistently sought out opportunities to lead by taking ownership of a project and carrying it through to completion. While working on an integration project last year, I lead the workstream for defining, projecting and tracking synergies throughout the first 100 days of the integration. This was an area that I had never previously worked in, and I took the time to learn as much as I could from past projects, consult other professionals with relevant experience and then coordinate key activities to be completed with the rest of the team. I created an inclusive team dynamic by reinforcing the "no stupid questions" and "no person left behind" principles. I truly believe that a chain is only as strong as its weakest link.
+I enjoy leading from the front and inspiring others to go above and beyond expectations in pursuit of the best possible outcome. In my career, I have consistently sought out opportunities to lead by taking ownership of a task from ideation to completion. While working on an integration project last year, I lead the workstream for defining, projecting and tracking synergies throughout the first 100 days of the integration. This was an area that I had never previously worked in, and I took the time to learn as much as I could from internal resources before coordinating key activities to be completed with the rest of the team. I created an inclusive team dynamic by reinforcing the "no stupid questions" and "no person left behind" principles. I think leading by example while motivating others is a powerful combination in creating successful teams that operate cohesively.
 
 #### Fast learner
 
-From studying French and Spanish at university, to starting my career in corporate tax, to moving into a financial advisory role and finally learning to program, I have consistently taken on the challenge to learn new skills. I love expanding my knowledge in areas that interest me, and being at a relatively early stage in my software engineering career, the endless possibilities for learning new languages and technologies is something that greatly excites me. While I do not necessarily understand every programming concept first time around, I believe everything can be understood once the right explanation or example is found, and I have learnt to embrace the feeling of uncertainty as a motivation to explore more deeply until I am satisfied that a particular concept makes sense. I hope to join a company that values learning as greatly as I do.
+From studying French and Spanish at university, to starting my career in corporate tax, to moving into a financial advisory role and finally learning to program, I have consistently taken on the challenge to learn new skills. I love expanding my knowledge in areas that interest me, and being at a relatively early stage in my software engineering career, the endless possibilities for learning new languages and technologies is something that greatly excites me. While I do not always understand every programming concept first time around, I believe everything can be understood once the right explanation or example is found, and I have learnt to embrace the feeling of uncertainty as a motivation to explore more deeply until I am satisfied that a particular concept makes sense. I hope to join a company that values learning as greatly as I do.
+
+#### Languages
+
+- Spanish - Full professional fluency
+- French - Conversational
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below:
+#### Makers Academy (November 2020 - March 2021)
+
+_16-week intensive coding bootcamp_
+
 - OOP, TDD, MVC, DDD
 - Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- HTML/CSS
+- Ruby, Sinatra, Rails, RSpec
+- JavaScript, Jasmine, React Native, Node.js
+- PostgreSQL
+- Git and github
 
-#### Your University / College (start_date to end_date)
+#### Institute of Chartered Accountants of Scotland (September 2013 - November 2016)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Chartered Accountant and Qualified Tax Advisor (KPMG)
+- Passed all 13 examinations across accounting, advanced finance, business law, business management, financial reporting and tax
+- Qualified in 2016 after completing two and a half years of professional experience
 
-#### Any other qualifications
+#### University of Bristol (September 2009 - July 2013)
 
-That in some arguable way make you a better software developer or well-rounded person
+- BA in Spanish and French, 2:1
 
-## Hobbies
+#### Bedford School (September 2007 - May 2008)
 
-Any cool stuff that makes you a super part of a software development team
+- International Baccalaureate, 43 points, Level 7 in Higher Level Spanish, French and Economics; Level 7 in Standard Level Biology and English; Level 6 in Standard Level Mathematics
+
+## Other achievements and interests
+
+- National Pool Lifeguard Qualification (2009)
+- Member of the University of Bristol tennis 1st team (2010), and captain of the Bedford School hockey 1st XI and tennis 1st team (2008)
+- Member of Worplesdon Golf Club, current handicap of 7
+- Keen interest in nutrition and longevity
