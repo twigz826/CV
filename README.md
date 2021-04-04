@@ -9,8 +9,6 @@
 
 I am a junior software engineer and recent Makers Academy graduate. Having spent the majority of my career in financial services, I saw that many solutions to real world problems revolved around technology. I want to be at the forefront of building these solutions and this is what lead me to pivot my career towards software engineering.
 
-I love challenging myself to solve complex problems while continuously learning and expanding my knowledge base. My prior commercial experience has taught me how to effectively manage projects, work in teams and deliver when faced with tight deadlines.
-
 I am now looking to join a team of like-minded individuals where I can contribute meaningfully while continuing to improve and grow as a software engineer.
 
 </div>
