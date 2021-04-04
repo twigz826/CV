@@ -74,7 +74,7 @@ From studying French and Spanish at university, to starting my career in corpora
 - Agile/XP
 - HTML/CSS
 - Ruby, Sinatra, Rails, RSpec
-- JavaScript, React Native, Node.js, JQuery, Jasmine, Jest,
+- JavaScript, React Native, Node.js, Jasmine, Jest,
 - PostgreSQL, SQLite
 - Git and Github
 
