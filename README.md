@@ -96,6 +96,6 @@ From studying French and Spanish at university, to starting my career in corpora
 - National Pool Lifeguard Qualification (2009)
 - Member of the University of Bristol tennis 1st team (2010), and captain of the Bedford School hockey 1st XI and tennis 1st team (2008)
 - Member of Worplesdon Golf Club, current handicap of 7
-- Keen interest in nutrition and longevity
+- Keen interest in sport, yoga, meditation, nutrition and longevity
 
 _References on request_
