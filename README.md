@@ -62,8 +62,6 @@ From studying French and Spanish at university, to starting my career in corpora
 
 #### Makers Academy (November 2020 - March 2021)
 
-_16-week intensive coding bootcamp_
-
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - HTML/CSS
