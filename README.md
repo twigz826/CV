@@ -42,7 +42,7 @@ _Tax Assistant Manager_
 
 #### Teamwork
 
-I thrive as part of a team after having grown up playing team sports through school and university. This has given me a strong foundation in understanding the importance of communication, helping everyone understand their role and how they contribute to the bigger picture so they can perform at their best. In my career, I have always worked as part of project teams and have learnt the importance of strong communication combined with an enthusiastic attitude to drive positive behaviour. I relish the opportunity to learn from other members of the team while also giving actionable advice and support where possible. At Makers, I had the opportunity to work on a number of group projects, while at the same time adopting Agile work practices to efficiently coordinate the workload and deliver well functioning final products.
+I thrive as part of a team after having grown up playing team sports through school and university. This gave me a strong foundation in understanding how teams succeed through meticulous planning, consistent training and an ethos of empowering individuals to understand their role and contribution to the bigger picture. In my career, I have always worked as part of project teams and have learnt the importance of clear communication combined with an enthusiastic attitude to drive positive behaviour. I relish the opportunity to learn from other members of the team while also giving actionable advice and support where possible. At Makers, I had the opportunity to work on a number of group projects, while at the same time adopting Agile work practices to efficiently coordinate the workload and deliver well functioning final products.
 
 #### Adaptability
 
