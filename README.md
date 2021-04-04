@@ -5,7 +5,7 @@
 <a href='https://www.linkedin.com/in/thomas-twigden-01336232/'>
 <img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
 
-[Projects](#projects) | [Work experience](#work-experience)| [Skills](#skills) | [Education](#education) | [Other achievements and interests](#other-achievements-and-interests)
+[Projects](#projects) | [Work experience](#work-experience) | [Skills](#skills) | [Education](#education) | [Other achievements and interests](#other-achievements-and-interests)
 
 I am a junior software engineer and recent Makers Academy graduate. Having spent the majority of my career in financial services, I saw that many solutions to real world problems revolved around technology. I want to be at the forefront of building these solutions and this is what lead me to pivot my career towards software engineering.
 
