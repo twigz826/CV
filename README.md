@@ -27,22 +27,22 @@ _Consultant_
 
 - Working in a number of different engagements across Financial Modelling and Post Merger Integration planning
 - Experience using VBA and PowerBI in the development of complex financial models for clients seeking to register bids on Chilean public concession contracts
-- Project management experience managing integration planning and execution for a leading Waste Management Services company across 7 different functions, as well as managing the integration following the merger of two Chilean public sector regulatory bodies
-- Ability to quickly learn new skills as well as adapt to working and operating in a Spanish-speaking environment
+- Project management experience managing integration planning and execution for clients across Chile, Canada and Australia
+- Ability to manage tight deadlines, quickly learn new skills as well as adapt to working and operating in a Spanish-speaking environment
 
 **KPMG - Corporate Tax** (September 2013 - January 2018)  
 _Tax Assistant Manager_
 
 - Working in the Financial Services Corporate Tax department on tax advisory projects for some of the largest banks and general insurers in the UK
 - Ability to coordinate project teams and manage tight deadlines, as well as adapt to new regulations impacting corporate tax requirements and considerations (particularly following the UK's decision to leave the EU)
-- Qualified as a chartered accountant in 2016 after gaining two and a half years of professional experience and passing all the required exams across accounting, advanced finance, financial reporting and tax
+- Qualified as a chartered accountant in 2016 after gaining two and a half years of professional experience and passing all the required exams across accounting, advanced finance, financial reporting, assurance business systems and tax
 
 
 ## Skills
 
 #### Teamwork
 
-I thrive as part of a team after having grown up playing team sports through school and university. This has given me a strong foundation in understanding the importance of communication, helping everyone understand their role and how they contribute to the bigger picture so they can perform at their best. In my career, I have always worked as part of project teams and relish the opportunity to learn from more senior members while giving actionable advice and support to more junior members. At Makers, I had the opportunity to work on a number of group projects, while at the same time adopting Agile work practices to efficiently coordinate the workload and deliver well functioning final products.
+I thrive as part of a team after having grown up playing team sports through school and university. This has given me a strong foundation in understanding the importance of communication, helping everyone understand their role and how they contribute to the bigger picture so they can perform at their best. In my career, I have always worked as part of project teams and have learnt the importance of strong communication combined with an enthusiastic attitude to drive positive behaviour. I relish the opportunity to learn from other members of the team while also giving actionable advice and support where possible. At Makers, I had the opportunity to work on a number of group projects, while at the same time adopting Agile work practices to efficiently coordinate the workload and deliver well functioning final products.
 
 #### Adaptability
 
