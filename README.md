@@ -95,9 +95,8 @@ From studying French and Spanish at university, to starting my career in corpora
 
 ## Other achievements and interests
 
-- National Pool Lifeguard Qualification (2009)
-- Member of the University of Bristol tennis 1st team (2010), and captain of the Bedford School hockey 1st XI and tennis 1st team (2008)
-- Member of Worplesdon Golf Club, current handicap of 7
-- Keen interest in sport, yoga, meditation, nutrition and longevity
+- I completed the National Pool Lifeguard Qualification, although I can't say I've ever had the chance to use my dynamite lifeguarding skills.
+- I am big into sport, with tennis and golf being my two favourites. I used to be quite good at the former (made it onto the Bristol University 1st team), and although I can't run down every ball like I once could, I still love it and try to play as much as I can. My current golf handicap is 7.
+- My other miscellaneous interests include yoga, meditation, any outdoors activities, nutrition and trying to ferment anything and everything (a pandemic hobby turned obsession).
 
 _References on request_
