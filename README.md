@@ -5,7 +5,7 @@
 <a href='https://www.linkedin.com/in/thomas-twigden-01336232/'>
 <img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
 
-<a href='thomastwigden@gmail.com'>
+<a href = "mailto: thomastwigden@gmail.com">
 <img src="./images/gmail.png" hspace="50" height="42" width="42"></a>
 
 
