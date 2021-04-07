@@ -95,7 +95,7 @@ From studying French and Spanish at university, to starting my career in corpora
 
 ## Other achievements and interests
 
-- I completed the National Pool Lifeguard Qualification, although I can't say I've ever had the chance to use my dynamite lifeguarding skills.
+- I completed the National Pool Lifeguard Qualification, it felt great finally getting to climb up and sit on the high chair (although I couldn't bring myself to put on the aviators).
 - I am big into sport, with tennis and golf being my two favourites. I used to be quite good at the former (made it onto the Bristol University 1st team), and although I can't run down every ball like I once could, I still love it and try to play as much as I can. My current golf handicap is 7.
 - My other miscellaneous interests include yoga, meditation, any outdoors activities, nutrition and trying to ferment anything and everything (a pandemic hobby turned obsession).
 
