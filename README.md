@@ -52,11 +52,11 @@ I have learnt how to adapt by embracing new challenges in my personal and profes
 
 #### Proactivity
 
-Having recently been part of a very small team at Deloitte, I understand how important it is to be proactive to resolve issues as they arise and accomplish tasks. I have always preferred to take the initiative rather than waiting for things to arrive at my feet. An example of this was in my last project prior to joining Makers. The decision was taken to use a project management tool that had been developed internally and recently released for use with clients. As the software was completely new to the whole team, I volunteered to be the software lead which involved completing all training sessions, configuring the software to the client's needs and leading client training workshops. I believe proactivity and being outside of one's comfort zone is one of the best strategies to accelerate learning and growth.
+Having recently been part of a very small team at Deloitte, I understand how important it is to be proactive to resolve issues as they arise and have always preferred to take the initiative rather than waiting for things to arrive at my feet. An example of this was in my last project at Deloitte prior to joining Makers. The decision was taken to use a project management tool that had been developed internally and recently released for use with clients. As the software was completely new to the whole team, I volunteered to be the software lead which involved completing all training sessions, configuring the software to the client's needs and leading client training workshops.
 
 #### Leadership
 
-I enjoy leading from the front and inspiring others to go above and beyond expectations. In my career, I have consistently sought out opportunities to lead by taking ownership of a task from an initial stage to completion. While working on a recent integration project, I lead the workstream for defining, projecting and tracking synergies throughout the first 100 days of the integration. This was an area that I had never previously worked in, and I took the time to learn as much as I could from more senior colleagues and internal resources. I then coordinated key activities to be completed with the rest of the team through developing a roadmap and allocating tasks. I reinforced principles that I believe are key to a strong team dynamic: "honesty is the best policy", "there are no stupid questions" and "no person left behind". We successfully delivered our work on the agreed-upon deadline and received very positive feedback from the client at the end of the engagement.
+I enjoy leading from the front to inspire others to go above and beyond expectations, and have consistently sought out opportunities in my career to lead by taking ownership of tasks. On a recent integration project at Deloitte, I lead the workstream for defining, projecting and tracking synergies throughout the first 100 days of the integration. Having little experience in this area, I took the time to learn as much as I could from senior colleagues and internal resources. I then coordinated key activities to be completed with the rest of the team through developing a roadmap and allocating tasks. I enjoyed building a strong team dynamic by reinforcing key principles like "honesty is the best policy", "there are no stupid questions" and "no person left behind".
 
 #### Fast learner
 
@@ -95,7 +95,7 @@ From studying French and Spanish at university, to starting my career in corpora
 
 ## Other achievements and interests
 
-- I completed the National Pool Lifeguard Qualification, it felt great fulfilling the childhood dream of getting to climb up and sit on the lifeguard chair (although I couldn't bring myself to put on the aviators).
+- I completed the National Pool Lifeguard Qualification, fulfilling the childhood dream of getting to climb up and sit on the big lifeguard chair (and trying very hard not to let the power go to my head).
 - I am big into sport, with tennis and golf being my two favourites. I used to be quite good at the former (made it onto the Bristol University 1st team), and although I can't run down every ball like I once could, I still love it and try to play as much as I can. My current golf handicap is 7.
 - My other miscellaneous interests include yoga, meditation, any outdoors activities, nutrition and trying to ferment anything and everything (a pandemic hobby turned obsession).
 
