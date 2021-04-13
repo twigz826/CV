@@ -8,13 +8,13 @@
 thomastwigden@gmail.com</br>
 [Projects](#projects) | [Skills](#skills) | [Work experience](#work-experience) | [Education](#education) | [Other achievements and interests](#other-achievements-and-interests)
 
+</div>
+
 Throughout my career as a financial consultant, I would often face problems and inefficiencies that I believed could be solved using technology. This curiosity lead me to delve deeper into programming, where I was quickly hooked on the challenge of complex problem-solving coupled with the endless possibilities of learning new languages, frameworks and techniques.
 
 Being at the forefront of building software solutions, with the potential to modernise many different industries, is something that greatly motivates me and has lead me to pivot my career towards software engineering.
 
 My professional experience in financial advisory has taught me how to work in teams, be proactive and adapt to new challenges. After having recently graduated from a three month intensive bootcamp at Makers Academy, I am now looking to begin a new phase of my career by joining a team of software engineers.
-
-</div>
 
 ## Projects
 
