@@ -28,7 +28,7 @@ My professional experience in financial advisory has taught me how to work in te
 
 #### Teamwork
 
-I thrive as part of a team after having grown up playing team sports through school and university. This gave me a strong foundation in understanding how teams succeed through meticulous planning, consistent training and an ethos of empowering individuals to understand their role and contribution to the bigger picture. In my career, I have always worked as part of project teams and have learnt the importance of clear communication combined with an enthusiastic attitude to drive positive behaviour. I relish the opportunity to learn from other members of the team while also giving actionable advice and support where possible. At Makers, I had the opportunity to work on a number of group projects, while at the same time adopting Agile work practices to efficiently coordinate the workload and deliver well functioning final products.
+I thrive as part of a team after having grown up playing team sports through school and university. This gave me a strong foundation in understanding how teams succeed through meticulous planning, consistent training and an ethos of empowering individuals to understand their role and contribution to the bigger picture. In my career, I have always worked as part of project teams and have learnt the importance of clear communication combined with an enthusiastic attitude to drive positive behaviour. I relish the opportunity to learn from other members of the team while also giving actionable advice and support where possible. At Makers, I had the opportunity to work on group projects using agile principles to efficiently coordinate the workload and deliver well functioning final products.
 
 #### Adaptability
 
